@@ -1,47 +1,134 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Tacos Cazador",
+  "tagline": "Late-night taqueria on Cazador Street, Los Angeles.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "CAZADOR ST · 5:30PM TO MIDNIGHT · FRI · SAT · SUN",
+    "heading": "Tacos until midnight.",
+    "subheading": "A late-night walk-up taqueria at the end of Cazador Street, open Friday, Saturday, and Sunday from five-thirty in the afternoon until midnight. Trompo de pastor, carnitas, bistec, lengua.",
+    "ctaText": "Call ahead",
+    "ctaLink": "tel:3237870908",
+    "image": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "The stand",
+    "heading": "The light at the end of Cazador.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Tacos Cazador is the walk-up at the end of Cazador Street, the kind of stand that lights up Friday night with a trompo, a comal, and a line that wraps around the block by ten.",
+      "We do trompo al pastor, slow-cooked carnitas, charred bistec, and the lengua that brings people back from across the city. Hand-pressed tortillas, salsa rojo and salsa verde mixed fresh every night.",
+      "Friday, Saturday, and Sunday only. Five-thirty to midnight. Cash or card. The taco run is part of the night."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Al Pastor",
+      "description": "Pineapple-marinated pork from the trompo, hand-cut to order, cilantro, onion, fresh lime. The signature.",
+      "price": "$4"
+    },
+    {
+      "title": "Carnitas",
+      "description": "Slow-braised pork shoulder, crispy edges, hand-pressed corn tortilla, onion, cilantro, salsa rojo.",
+      "price": "$4"
+    },
+    {
+      "title": "Bistec",
+      "description": "Skirt steak, charred over the comal, salsa verde, lime. Two corn tortillas per taco.",
+      "price": "$5"
+    },
+    {
+      "title": "Lengua",
+      "description": "Slow-cooked beef tongue, tender, onion, cilantro, salsa rojo. The connoisseur's taco.",
+      "price": "$5"
+    },
+    {
+      "title": "Cabeza",
+      "description": "Slow-cooked beef cheek, rich, charred onions, fresh lime. Limited each night.",
+      "price": "$5"
+    },
+    {
+      "title": "Tacos por Cinco",
+      "description": "Five tacos of your choice, agua fresca, beans. The full late-night plate.",
+      "price": "$22"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Roberto C.",
+      "rating": 5,
+      "context": "Friday-night regular",
+      "text": "Cazador is the late-night spot in LA. Two years going every Friday at eleven and the line is always worth it. Trompo al pastor, hand-pressed tortillas. Pure midnight gold."
+    },
+    {
+      "name": "Daniela S.",
+      "rating": 5,
+      "context": "First-time customer",
+      "text": "Walked up on a Saturday at eight and was eating the best lengua of my life by 8:18. The pastor is no joke. The salsa verde is no joke. Coming back next Friday."
+    },
+    {
+      "name": "Marc D.",
+      "rating": 4,
+      "context": "Weekly visitor",
+      "text": "Bring my crew here every Saturday night before the bar. Four guys, sixteen tacos, eighty bucks and the night is made. Cazador never misses."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(323) 787-0908",
+    "email": "hola@tacoscazador.com",
+    "address": "2923 Cazador St, Los Angeles, CA 90065",
+    "mapEmbedQuery": "Tacos Cazador, 2923 Cazador St, Los Angeles, CA 90065",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "Closed",
+      "Tuesday": "Closed",
+      "Wednesday": "Closed",
+      "Thursday": "Closed",
+      "Friday": "5:30 PM – 12:00 AM",
+      "Saturday": "5:30 PM – 12:00 AM",
+      "Sunday": "5:30 PM – 12:00 AM"
+    }
   },
+  "social": {},
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Tacos Cazador — Late-night taqueria on Cazador Street, Los Angeles",
+    "description": "A walk-up late-night taqueria on Cazador Street. Trompo al pastor, carnitas, bistec, lengua. Open Friday, Saturday, Sunday from 5:30 PM to midnight.",
+    "keywords": [
+      "late night tacos Los Angeles",
+      "Cazador Street taco stand",
+      "trompo al pastor LA",
+      "Glassell Park tacos"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#0A0A0A",
+    "accentColor": "#BEF264",
+    "fontFamily": "monoton-spacegrotesk-spacemono"
+  },
+  "designSystem": {
+    "searchQuery": "late night taqueria neon stripe monoton lime sodium midnight cazador street walk-up",
+    "styleName": "Neon Night Taqueria (Monoton stripe)",
+    "pattern": "Hero dark glow + Menu cards + CTA",
+    "palette": {
+      "primary": "#0A0A0A",
+      "secondary": "#1C1917",
+      "cta": "#BEF264",
+      "accent": "#FB923C",
+      "background": "#0A0A0A",
+      "text": "#FAFAFA",
+      "muted": "#A8A29E",
+      "border": "#1C1917",
+      "surface": "#1C1917"
+    },
+    "typography": {
+      "heading": "Monoton",
+      "body": "Space Grotesk",
+      "label": "Space Mono",
+      "mood": "Late-night taqueria, neon stripe display, lime + sodium, night-market walk-up energy"
+    },
+    "moves": [
+      "Monoton neon-stripe display with text-shadow lime glow — first Monoton in the build",
+      "Lime + sodium dual-accent palette — neon-sign night-market",
+      "'Flicker' animation on CAZADOR brand mark — neon-tube glitch",
+      "Hero overlay with radial lime + sodium gradient fills — sodium streetlamp",
+      "Map iframe filtered to inverted hue — dark-mode street-map",
+      "Lime-glow neon-border buttons + reviews cards — first neon-glow border block"
+    ]
   }
 }
